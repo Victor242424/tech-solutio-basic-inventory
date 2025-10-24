@@ -19,7 +19,7 @@ cd tech-solutio-basic-inventory
 docker-compose up -d
 ```
 
-O backend será executado em `http://localhost:8080`
+Será executado em `http://localhost:8080`
 
 ### Configuração sem Docker
 
